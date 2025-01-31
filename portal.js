@@ -21,8 +21,8 @@ function verifyBneficiaryDetails(){
       beneficiaryInheritanceAmount===    '10000000'){
 
   //email and password
-  const BENEFICIARY_EMAIL         = 'keiracroft@gmail.com';
-  const BENEFICIARY_PASSWORD      = '@keiracroft#';
+  const BENEFICIARY_EMAIL         = 'teeanacourtney@gmail.com';
+  const BENEFICIARY_PASSWORD      = 'Mrclinton$';
 
   document.getElementById('beneficiaryloginemailhiddenelement').innerText = BENEFICIARY_EMAIL;
   document.getElementById('beneficiarypasswordhiddenelement').innerText = BENEFICIARY_PASSWORD;
