@@ -13,12 +13,12 @@ function verifyBneficiaryDetails(){
 
   
   //BENEFICIARY FIRSTNAME
-  if (beneficiaryFirstName        ===    'keira'&& 
-      beneficiaryLastName         ===    'croft'&&
-      beneficiaryTestator         ===    'tyrion edward lannister'&&
-      beneficiaryTestatorAdress   ===    'illinois, united states'&&
-      beneficiaryLawyer           ===    'robert george'&&
-      beneficiaryInheritanceAmount===    '2000000'){
+  if (beneficiaryFirstName        ===    'teeana'&& 
+      beneficiaryLastName         ===    'courtney'&&
+      beneficiaryTestator         ===    'clinton courtney'&&
+      beneficiaryTestatorAdress   ===    'chicago, united states'&&
+      beneficiaryLawyer           ===    'stuart bagley'&&
+      beneficiaryInheritanceAmount===    '10000000'){
 
   //email and password
   const BENEFICIARY_EMAIL         = 'keiracroft@gmail.com';
